@@ -1,2 +1,3 @@
-# Introduction_to_ML_with_TF2
-A repo that gives a hands-on introduction to machine learning using TensorFlow 2.0
+# Introduction to ML with TensorFlow 2.0
+
+This repo gives a hands-on introduction to machine learning using TensorFlow 2.0
