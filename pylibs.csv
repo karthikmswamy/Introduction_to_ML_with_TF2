@@ -1,0 +1,47 @@
+Library,Release Date,Author,Documentation,Tags
+NumPy,2006,Travis Olliphant,https://numpy.org/doc/,Array Manipulation, Numerical Computing
+pandas,2008,Wes McKinney,https://pandas.pydata.org/docs/,Data Manipulation, Data Analysis
+Matplotlib,2003,John D. Hunter,https://matplotlib.org/3.4.3/contents.html,Data Visualization, Plotting
+scikit-learn,2007,Various Contributors,https://scikit-learn.org/stable/documentation.html,Machine Learning, Data Mining
+TensorFlow,2015,Google Brain Team,https://www.tensorflow.org/api_docs,Deep Learning, Neural Networks
+Keras,2015,François Chollet,https://keras.io/api/,Deep Learning, Neural Networks
+PyTorch,2016,Facebook AI Research,https://pytorch.org/docs/stable/index.html,Deep Learning, Neural Networks
+SciPy,2001,Various Contributors,https://docs.scipy.org/doc/,Scientific Computing, Numerical Algorithms
+Seaborn,2012,Michael Waskom,https://seaborn.pydata.org/api.html,Data Visualization, Statistical Graphics
+Statsmodels,2009,Statsmodels Developers,https://www.statsmodels.org/stable/index.html,Statistical Modeling, Econometrics
+Plotly,2012,Plotly Technologies Inc.,https://plotly.com/python/,Data Visualization, Interactive Plots
+Bokeh,2013,Bokeh Team,https://docs.bokeh.org/en/latest/index.html,Data Visualization, Interactive Plots
+NLTK (Natural Language Toolkit),2001,Steven Bird and Edward Loper,https://www.nltk.org/,Natural Language Processing, Text Analysis
+NetworkX,2002,Aric Hagberg et al.,https://networkx.org/documentation/stable/,Network Analysis, Graph Algorithms
+PySpark,2013,Apache Software Foundation,https://spark.apache.org/docs/latest/api/python/,Big Data Processing, Distributed Computing
+Gensim,2010,Radim Řehůřek,https://radimrehurek.com/gensim/,Topic Modeling, Word Embeddings
+XGBoost,2014,Tianqi Chen,https://xgboost.readthedocs.io/en/latest/,Gradient Boosting, Machine Learning
+LightGBM,2016,Microsoft,https://lightgbm.readthedocs.io/en/latest/,Gradient Boosting, Machine Learning
+Dask,2016,Dask Development Team,https://docs.dask.org/en/latest/,Parallel Computing, Big Data Processing
+StatsPy,2020,StatsPy Developers,https://www.statspy.org/,Statistical Analysis, Hypothesis Testing
+CatBoost,2017,Yandex,https://catboost.ai/docs/,Gradient Boosting, Machine Learning
+Vaex,2018,Maarten Breddels,https://vaex.io/docs/index.html,Out-of-Core Dataframes, Big Data Processing
+Surprise,2011,Nicolas Hug,https://surprise.readthedocs.io/en/stable/,Recommender Systems, Collaborative Filtering
+Featuretools,2015,Feature Labs,https://docs.featuretools.com/en/stable/,Automated Feature Engineering, Feature Generation
+Hyperopt,2013,James Bergstra et al.,https://hyperopt.github.io/hyperopt/,Hyperparameter Optimization, Bayesian Optimization
+PyCaret,2020,Moez Ali,https://pycaret.org/,Automated Machine Learning, Model Building
+Optuna,2016,Takuya Akiba et al.,https://optuna.readthedocs.io/en/stable/,Hyperparameter Optimization, Bayesian Optimization
+Yellowbrick,2015,Benjamin Bengfort,https://www.scikit-yb.org/en/latest/,Visual Model Diagnostics, Model Evaluation
+Boruta,2012,Miron B. Kursa et al.,https://boruta.readthedocs.io/en/latest/,Feature Selection, Variable Importance
+SHAP (SHapley Additive exPlanations),2017,Scott Lundberg,https://shap.readthedocs.io/en/latest/,Interpretable Machine Learning, Feature Importance
+TPOT,2015,Randal S. Olson et al.,https://epistasislab.github.io/tpot/,Automated Machine Learning, Model Optimization
+ELI5 (Explain Like I'm 5),2015,Christoph Molnar,https://eli5.readthedocs.io/en/latest/,Model Interpretability, Feature Explanation
+Ludwig,2019,Uber AI,https://ludwig-ai.github.io/ludwig-docs/,Deep Learning, Model Training
+Prophet,2017,Sean J. Taylor et al.,https://facebook.github.io/prophet/docs/,Time Series Forecasting, Trend Analysis
+Klib,2020,Oualid Krichen,https://klib.readthedocs.io/en/latest/,Data Cleaning, Data Visualization
+H2O,2012,H2O.ai,http://docs.h2o.ai/,Machine Learning Platform, Distributed Computing
+OpenCV,2000,OpenCV Team,https://docs.opencv.org/,Computer Vision, Image Processing
+TensorFlow Probability,2017,Google,https://www.tensorflow.org/probability/api_docs,Probabilistic Modeling, Bayesian Inference
+PyMC3,2013,PyMC Developers,https://docs.pymc.io/,Probabilistic Programming, Bayesian Inference
+GPy,2012,GPy Authors,https://gpy.readthedocs.io/en/deploy/,Gaussian Processes, Bayesian Regression
+hmmlearn,2012,hmmlearn developers,https://hmmlearn.readthedocs.io/en/latest/,Hidden Markov Models, Sequence Analysis
+pgmpy,2013,Ankur Ankan et al.,http://pgmpy.org/,Probabilistic Graphical Models, Bayesian Networks
+missingno,2015,Reshama Shaikh et al.,https://github.com/ResidentMario/missingno,Missing Data Visualization, Data Quality Analysis
+dython,2019,Shaked Zychlinski,https://dython.readthedocs.io/en/latest/,Feature Selection, Categorical Data Analysis
+tsfresh,2016,Blue Yonder GmbH,https://tsfresh.readthedocs.io/en/latest/,Time Series Feature Extraction, Feature Engineering
+imbalanced-learn,2017,Guillaume Lemaitre,https://imbalanced-learn.org/stable/,Imbalanced Classification, Sampling Techniques
